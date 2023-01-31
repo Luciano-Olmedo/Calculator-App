@@ -1,6 +1,7 @@
 CALCULATOR-APP
 
- Una calculadora para operaciones simples 😆
+
+A calculator for simple operations 😆
 
 
 https://calculator-beast.netlify.app/
